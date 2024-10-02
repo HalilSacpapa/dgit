@@ -2,7 +2,7 @@ class Dgit < Formula
   desc "Shell script to manage multiple git account with different ssh key"
   homepage "https://github.com/HalilSacpapa/dual_git"
   url "https://github.com/HalilSacpapa/homebrew-dual-git/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "46086d9a5422fd4886d7cbd75fffa0cc59570196db5beaf9a5358c3e395612b3"
+  sha256 "2cd29f83e4cb83c28d2724308ce58ff4068f5537987003a6ea77ca2228f215c6"
   license "BSD-2-Clause"
 
   depends_on "bash"
